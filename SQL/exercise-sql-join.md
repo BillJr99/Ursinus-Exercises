@@ -10,7 +10,7 @@ info:
   goals:
     - To write a SQL Join statement
     
-canvasasmtid: "125441"   
+canvasasmtid: "181959"   
 canvaspoints: 3
   
 processor:  
