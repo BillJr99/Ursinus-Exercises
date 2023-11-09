@@ -35,8 +35,9 @@ files:
         -- TODO: List the average household salary of the people living in each house (call this column HouseholdSalary), sorted in descending order by salary
         -- HINT: The answer is [{"columns":["Address","HouseholdSalary"],"values":[["234 Main Street",70000],["12 Third Street",40000],["123 Main Street",25000]]}]
         
-        -- TODO: List the average household salary (call this column HouseholdSalary) by zip code, in descending order by salary
+        -- TODO: List the average total household salary (call this column HouseholdSalary) by zip code, in descending order by salary
         -- HINT: The answer is [{"columns":["Zip","HouseholdSalary"],"values":[["19426",130000],["19406",40000]]}]
+        -- HINT: You will need a sum of salaries for the inner subquery, and then take the average of those by zip code!
 
   - filename: "Main.sql"
     ismain: true
