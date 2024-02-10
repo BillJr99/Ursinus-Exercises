@@ -2,7 +2,6 @@
 layout: exercise_sql
 permalink: /Modules/SQL/Aggregation/Exercise
 title: "CS377: Database Design - SQL Aggregation"
-excerpt: "CS377: Database Design - SQL Aggregation"
 
 info:
   points: 3

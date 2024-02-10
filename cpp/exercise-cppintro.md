@@ -2,7 +2,6 @@
 layout: exercise_cpp
 permalink: /Modules/Cpp/CppIntro
 title: "C++ Basics"
-excerpt: "C++ Basics"
 canvaspoints: "3"
 
 info:

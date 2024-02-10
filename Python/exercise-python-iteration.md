@@ -2,7 +2,6 @@
 layout: exercise_python
 permalink: /Modules/Python/Iteration/Exercise
 title: "CS377: Database Design - Iteration in Python"
-excerpt: "CS377: Database Design - Iteration in Python"
 
 info:
   points: 3

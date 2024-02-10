@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/Recursion/Exercise
 title: "CS173: Intro to Computer Science - Recursion"
-excerpt: "CS173: Intro to Computer Science - Recursion"
+
 
 info:
   points: 3

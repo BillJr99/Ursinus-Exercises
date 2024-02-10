@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/InsertionSort/Exercise
 title: "CS173: Intro to Computer Science - Insertion Sort"
-excerpt: "CS173: Intro to Computer Science - Insertion Sort"
+
 
 info:
   points: 3

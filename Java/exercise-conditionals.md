@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /Modules/Conditionals/Exercise
 title: "CS173: Intro to Computer Science - Introduction to Conditionals"
-excerpt: "CS173: Intro to Computer Science - Introduction to to Conditionals"
 
 info:
   points: 3

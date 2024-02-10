@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /Modules/Arrays/Exercise
 title: "CS173: Intro to Computer Science - Nearest Value in an Array without Going Over"
-excerpt: "CS173: Intro to Computer Science - Nearest Value in an Array without Going Over"
 
 info:
   points: 3

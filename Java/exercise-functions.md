@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/Functions/Exercise
 title: "CS173: Intro to Computer Science - Functions"
-excerpt: "CS173: Intro to Computer Science - Functions"
+
 
 info:
   prev: "./Module"

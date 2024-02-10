@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /ArrayDrills/Array3Sort
 title: "CS174: OOP - Drills - Array 3 Sort"
-excerpt: "CS174: OOP - Drills - Array 3 Sort"
+
 
 info:
   prev: "./ArrayInsert"

@@ -2,7 +2,6 @@
 layout: exercise_horstmann
 permalink: /Modules/Horstmann/Swap/Exercise
 title: "CS173: Intro to Computer Science - Horstmann Parsons Puzzle: Swap"
-excerpt: "CS173: Intro to Computer Science - Horstmann Parsons Puzzle: Swap"
 
 info:
   points: 0

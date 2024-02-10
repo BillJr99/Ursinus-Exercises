@@ -2,7 +2,6 @@
 layout: exercise-r
 permalink: /assets/js/R/TutorialExercise
 title: "CS173: Intro to Computer Science - R"
-excerpt: "CS173: Intro to Computer Science - R"
 
 info:
   points: 0

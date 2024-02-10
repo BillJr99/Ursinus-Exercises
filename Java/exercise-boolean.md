@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /Modules/Boolean/Exercise
 title: "CS173: Intro to Computer Science - Introduction to Boolean Expressions"
-excerpt: "CS173: Intro to Computer Science - Introduction to to Boolean Expressions"
 
 info:
   points: 3

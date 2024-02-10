@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/Iteration/Exercise
 title: "CS173: Intro to Computer Science - Introduction to Iteration"
-excerpt: "CS173: Intro to Computer Science - Introduction to Iteration"
+
 
 info:
   points: 3

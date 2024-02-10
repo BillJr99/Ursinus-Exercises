@@ -2,7 +2,6 @@
 layout: exercise_sql
 permalink: /Modules/SQL/Join/Exercise
 title: "CS377: Database Design - SQL Joins"
-excerpt: "CS377: Database Design - SQL Joins"
 
 info:
   points: 3

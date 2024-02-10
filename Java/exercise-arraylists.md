@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /Modules/ArrayLists/Exercise
 title: "CS173: Intro to Computer Science - ArrayLists"
-excerpt: "CS173: Intro to Computer Science - ArrayLists"
 
 prev: "./Module2"
 

@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/FourInARow/Exercise
 title: "CS173: Intro to Computer Science - Four in a Row"
-excerpt: "CS173: Intro to Computer Science - Four in a Row"
+
 
 info:
   points: 3

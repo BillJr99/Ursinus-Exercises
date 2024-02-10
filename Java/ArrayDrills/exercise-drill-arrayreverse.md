@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /ArrayDrills/ArrayReverse
 title: "CS174: OOP - Drills - Creating the reverse of an array"
-excerpt: "CS174: OOP - Drills - Creating the reverse of an array"
+
 
 info:
   prev: "./ArrayMean"

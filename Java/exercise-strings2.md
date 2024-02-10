@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /Modules/Strings/Exercise2
 title: "CS173: Intro to Computer Science - Strings Revisited"
-excerpt: "CS173: Intro to Computer Science - Strings Revisited"
 
 info:
   points: 3

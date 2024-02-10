@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /ArrayDrills/ArrayZeroes
 title: "CS174: OOP - Drills - Counting Array Zeroes"
-excerpt: "CS174: OOP - Drills - Counting Array Zeroes"
 
 info:
   next: "./ArraySep"

@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /ArrayDrills/ArrayMinIndex
 title: "CS174: OOP - Drills - Array Min Index"
-excerpt: "CS174: OOP - Drills - Array Min Index"
+
 
 info:
   prev: "./Array3Sort"

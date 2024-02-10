@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /Modules/EpochTime/Exercise
 title: "CS173: Intro to Computer Science - Epoch Time Overflow Calculator"
-excerpt: "CS173: Intro to Computer Science - Epoch Time Overflow Calculator"
 
 info:
   points: 3

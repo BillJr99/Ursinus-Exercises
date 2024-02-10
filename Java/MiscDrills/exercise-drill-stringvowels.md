@@ -2,7 +2,6 @@
 layout: exercise
 permalink: /MiscDrills/StringVowels
 title: "CS174: OOP - Drills - Vowel Counting"
-excerpt: "CS174: OOP - Drills - Vowel Counting"
 
 info:
   prev: "./ArrayInsert"
