@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/Iteration/Exercise
 title: "CS173: Intro to Computer Science - Introduction to Iteration"
-
+language: "java"
 
 info:
   points: 3

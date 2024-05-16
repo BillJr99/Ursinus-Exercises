@@ -2,6 +2,7 @@
 layout: exercise
 permalink: /Modules/ArrayLists/Exercise
 title: "CS173: Intro to Computer Science - ArrayLists"
+language: "java"
 
 prev: "./Module2"
 

@@ -2,6 +2,7 @@
 layout: exercise
 permalink: /Modules/Strings/Exercise2
 title: "CS173: Intro to Computer Science - Strings Revisited"
+language: "java"
 
 info:
   points: 3

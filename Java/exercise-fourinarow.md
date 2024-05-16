@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/FourInARow/Exercise
 title: "CS173: Intro to Computer Science - Four in a Row"
-
+language: "java"
 
 info:
   points: 3

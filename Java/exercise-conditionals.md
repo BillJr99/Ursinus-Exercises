@@ -2,6 +2,7 @@
 layout: exercise
 permalink: /Modules/Conditionals/Exercise
 title: "CS173: Intro to Computer Science - Introduction to Conditionals"
+language: "java"
 
 info:
   points: 3

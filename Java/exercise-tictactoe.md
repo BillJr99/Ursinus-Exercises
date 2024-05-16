@@ -2,6 +2,7 @@
 layout: exercise
 permalink: /Modules/TicTacToe/Exercise
 title: "CS173: Intro to Computer Science - Tic-Tac-Toe"
+language: "java"
 
 info:
   points: 3

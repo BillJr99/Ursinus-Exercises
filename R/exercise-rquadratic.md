@@ -1,5 +1,5 @@
 ---
-layout: exercise-r
+layout: exercise_r
 permalink: /assets/js/R/QuadraticExercise
 title: "CS173: Intro to Computer Science - R Quadratic Equation"
 

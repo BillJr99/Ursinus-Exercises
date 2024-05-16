@@ -1,7 +1,8 @@
 ---
-layout: exercise_sql
+layout: exercise
 permalink: /Modules/SQL/Warmup/Exercise
 title: "CS377: Database Design - Introduction to Databases"
+language: "sql"
 
 info:
   points: 3

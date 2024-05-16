@@ -1,7 +1,8 @@
 ---
-layout: exercise_python
+layout: exercise
 permalink: /Modules/Python/Iteration/Exercise
 title: "CS377: Database Design - Iteration in Python"
+language: "python"
 
 info:
   points: 3

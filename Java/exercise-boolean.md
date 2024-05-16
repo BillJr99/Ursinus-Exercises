@@ -2,6 +2,7 @@
 layout: exercise
 permalink: /Modules/Boolean/Exercise
 title: "CS173: Intro to Computer Science - Introduction to Boolean Expressions"
+language: "java"
 
 info:
   points: 3

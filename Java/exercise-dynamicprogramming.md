@@ -2,6 +2,7 @@
 layout: exercise
 permalink: /Modules/DynamicProgramming/Exercise
 title: "CS173: Intro to Computer Science - Dynamic Programming"
+language: "java"
 
 info:
   points: 3

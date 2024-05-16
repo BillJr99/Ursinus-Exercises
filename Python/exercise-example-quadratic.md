@@ -1,10 +1,11 @@
 ---
-layout: exercise_python
+layout: exercise
 permalink: "Python/Example_Quadratic"
 title: "Python Example Module: Quadratic Formula"
 canvasasmtid: "95035"
 canvaspoints: "3"
 canvashalftries: 5
+language: "python"
 
 info:
   points: 3

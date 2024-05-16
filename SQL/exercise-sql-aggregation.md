@@ -1,7 +1,8 @@
 ---
-layout: exercise_sql
+layout: exercise
 permalink: /Modules/SQL/Aggregation/Exercise
 title: "CS377: Database Design - SQL Aggregation"
+language: "sql"
 
 info:
   points: 3

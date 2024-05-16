@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/IDE/Exercise
 title: "CS173: Intro to Computer Science - Introduction to the NetBeans IDE"
-
+language: "java"
 
 info:
   points: 3

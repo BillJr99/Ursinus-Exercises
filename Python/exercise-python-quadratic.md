@@ -1,7 +1,8 @@
 ---
-layout: exercise_python
+layout: exercise
 permalink: /Modules/Python/Warmup/Exercise
 title: "CS377: Database Design - Quadratic Formula in Python"
+language: "python"
 
 info:
   points: 3

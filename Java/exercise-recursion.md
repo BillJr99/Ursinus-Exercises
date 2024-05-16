@@ -2,7 +2,7 @@
 layout: exercise
 permalink: /Modules/Recursion/Exercise
 title: "CS173: Intro to Computer Science - Recursion"
-
+language: "java"
 
 info:
   points: 3

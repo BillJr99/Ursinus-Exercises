@@ -1,7 +1,8 @@
 ---
-layout: exercise_sql
+layout: exercise
 permalink: /Modules/SQL/Join/Exercise
 title: "CS377: Database Design - SQL Joins"
+language: "sql"
 
 info:
   points: 3
