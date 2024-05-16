@@ -7,7 +7,7 @@ language: "cpp"
 
 info:
   points: 3
-  instructions: "Create a method printDivisibleBy6() which takes one argument, and which prints the numbers from 6 up to and including the specified argument that are divisible by 6.  Please put a space in between each number.  As a hint, logical AND is also && in C++, just as it is in Java.  So for a number to be divisible by 6, you should use this to check that the number has a remainder of 0 when divided b 2, and also by 3."
+  instructions: "Create a method <code>printDivisibleBy6()</code> which takes one argument, and which prints the numbers from 6 up to and including the specified argument that are divisible by 6.  Please put a space in between each number.  As a hint, logical AND is also <code>&&</code> in C++, just as it is in Java.  So for a number to be divisible by 6, you should use this to check that the number has a remainder of 0 when divided by 2, and also by 3."
   goals:
     - Declare methods in C++
     - Work with loops in C++
