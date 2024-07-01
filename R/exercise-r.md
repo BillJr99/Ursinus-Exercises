@@ -1,7 +1,8 @@
 ---
 layout: exercise_r
-permalink: /assets/js/R/TutorialExercise
+permalink: /Modules/R/TutorialExercise
 title: "CS173: Intro to Computer Science - R"
+language: "r"
 
 info:
   points: 0
@@ -23,4 +24,4 @@ processor:
         
 ---
 
-<!-- permalink was /Modules/R/TutorialExercise; permalink has to be /assets/js/R/ to allow loading of associated assets from the current directory -->
+<!-- permalink was /Modules/R/; permalink once had to be /assets/js/R/ to allow loading of associated assets from the current directory -->
