@@ -28,7 +28,10 @@ processor:
     - incorrectcheck: |
         pos.length == 1
       feedback: "Try again: try printing a space in between the word Hello and your name!"       
- 
+
+openFilesOnLoad:
+  - "MyFirstProgram.java"
+  
 files:
   - filename: "MyFirstProgram.java"
     name: myfirstprogram
