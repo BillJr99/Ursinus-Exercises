@@ -11,7 +11,6 @@ info:
     - To write mathematical expressions in Python
     - To write a function that computes an expression and returns its result
    
-canvascourseid: "12345"
 canvasasmtid: "125423"
 canvaspoints: "3"
    

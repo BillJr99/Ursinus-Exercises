@@ -10,7 +10,6 @@ info:
   goals:
     - To use compound conditionals 
   
-canvascourseid: "12345"
 canvasasmtid: "137427"
 canvaspoints: 3
   

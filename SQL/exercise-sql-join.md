@@ -10,7 +10,6 @@ info:
   goals:
     - To write a SQL Join statement
     
-canvascourseid: "12345"
 canvasasmtid: "181959"   
 canvaspoints: 3
   

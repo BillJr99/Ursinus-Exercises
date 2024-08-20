@@ -10,7 +10,6 @@ info:
   goals:
     - To use iteration to compute a discrete value
     
-canvascourseid: "12345"
 canvasasmtid: "137444"
 canvaspoints: 3
     

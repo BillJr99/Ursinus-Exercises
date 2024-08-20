@@ -6,12 +6,10 @@ language: "java"
 
 info:
   points: 3
-  prev: "./Module2"
   instructions: "Your job below is to change the fib method so that it checks to see if a particular Fibonacci number has been saved in memory before trying to compute it. If it's already been saved, simply return what's in memory."
   goals:
     - To improve performance of a recursive algorithm by cacheing values via a Dynamic Program 
 
-canvascourseid: "12345"
 canvasasmtid: ""      
 canvaspoints: 3
   

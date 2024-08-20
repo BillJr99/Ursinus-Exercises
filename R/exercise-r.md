@@ -10,7 +10,6 @@ info:
   goals:
     - To write a program using the R programming language
   
-canvascourseid: "12345"
 canvasasmtid: ""
 canvaspoints: 0
   

@@ -6,13 +6,11 @@ language: "java"
 
 info:
   points: 3
-  prev: "./Module2"
   instructions: "Please fill in the while loop in the mergeSort method that performs the merging step.  Below is the majority of the code for merge sort, as well as some array utilities we wrote last lab. The main method fills in a random array, prints that array, calls the mergeSort method, and then prints the result. If you've done this properly, the resulting array will come back in sorted order."
   goals:
     - To implement the merge sort algorithm
     - To swap two variables in memory
     
-canvascourseid: "12345"
 canvasasmtid: ""    
 canvaspoints: 3
     

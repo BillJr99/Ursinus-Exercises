@@ -6,13 +6,11 @@ language: "java"
 
 info:
   points: 3
-  prev: "./Module2"
   instructions: "Modify the MyFirstProgram.java file to print hello to yourself (Hello followed by your name)."
   goals:
     - To become familiar with the basic structure of a Java program
     - To write a Java statement
     
-canvascourseid: "12345"
 canvasasmtid: "137417"
 canvaspoints: 3
   

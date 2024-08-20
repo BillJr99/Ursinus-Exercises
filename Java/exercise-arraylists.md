@@ -4,7 +4,6 @@ permalink: /Modules/ArrayLists/Exercise
 title: "CS173: Intro to Computer Science - ArrayLists"
 language: "java"
 
-prev: "./Module2"
 
 info:
   points: 3
@@ -13,7 +12,6 @@ info:
     - "To create and manipulate an <code>ArrayList</code>"
     - "To iterate over an <code>ArrayList</code>"
   
-canvascourseid: "12345"
 canvasasmtid: "137462"
 canvaspoints: 3
   

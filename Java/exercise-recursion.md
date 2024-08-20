@@ -6,12 +6,10 @@ language: "java"
 
 info:
   points: 3
-  prev: "./Module"
   instructions: "Fill in the reverseString method below to recursively compute the string in reverse."
   goals:
     - To implement a recursive function call
     
-canvascourseid: "12345"
 canvasasmtid: "137468"
 canvaspoints: 3
     

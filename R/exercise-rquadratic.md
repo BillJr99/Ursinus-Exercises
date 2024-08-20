@@ -11,7 +11,6 @@ info:
     - To write a program using the R programming language
     - To write mathematical expressions using the R programming language
   
-canvascourseid: "12345"
 canvasasmtid: ""
 canvaspoints: 0
   

@@ -6,13 +6,11 @@ language: "java"
 
 info:
   points: 3
-  prev: "./Module2"
   instructions: "Please fill in the swap method to swap arr[i] with arr[j]. Below is some of the code we wrote in the video to setup random arrays, as well as skeleton code for insertion sort. The main method fills in a random array, prints that array, calls the insertionSort method, and then prints the result. Once this method works properly, your insertion sort code will properly sort the array."
   goals:
     - To swap two variables in memory
     - To implement the insertion sort algorithm
     
-canvascourseid: "12345"
 canvasasmtid: "137466"
 canvaspoints: 3
     

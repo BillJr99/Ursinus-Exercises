@@ -6,7 +6,6 @@ language: "java"
 
 info:
   points: 3
-  prev: "./Module"
   instructions: "Modify the Driver.java file to compute and print the Energy of an object given its mass and the constant <code>c</code> (which is given to you in the program)."
   goals:
     - To become familiar with the basic structure of a Java program
@@ -14,7 +13,6 @@ info:
     - To declare a variable
     - To manipulate a variable with arithmetic statements
   
-canvascourseid: "12345"
 canvasasmtid: "137422"
 canvaspoints: 3
   
