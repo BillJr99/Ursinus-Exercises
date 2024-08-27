@@ -1,7 +1,7 @@
 ---
 layout: exercise
 language: graphics_view
-permalink: "/Modules/Graphics/OrthographicView"
+permalink: "/Modules/Graphics/ViewOrthographic"
 title: "CS 476: Computer Graphics - Object First Perspective/Viewing Exercise 1"
 excerpt: "CS 476: Computer Graphics - Object First Perspective/Viewing Exercise 1"
 canvasasmtid: "160487"
@@ -62,6 +62,7 @@ files:
     ismain: true
     isreadonly: false
     isvisible: true
+    excludeFromExport: true
     code: |
         {
             "name":"objectfirsttester",
