@@ -1,7 +1,7 @@
 ---
 layout: exercise
 permalink: /Modules/Scheme/Warmup/Exercise
-title: "CS377: Database Design - Introduction to Databases"
+title: "CS374: Principles of Programming Languages - Warmup with Scheme"
 language: "scheme"
 
 info:
@@ -25,7 +25,7 @@ processor:
 files:
   - filename: "first.sql"
     name: first
-    ismain: false
+    ismain: true
     isreadonly: false
     isvisible: true
     code: | 
