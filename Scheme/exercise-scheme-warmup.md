@@ -23,7 +23,7 @@ processor:
     pos.toLowerCase().includes("25")
  
 files:
-  - filename: "first.sql"
+  - filename: "first.scm"
     name: first
     ismain: false
     isreadonly: false
