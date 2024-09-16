@@ -18,7 +18,7 @@ processor:
   incorrectfeedback: "Try again"
   submitformlink: false
   feedbackprocess: | 
-    var pos = feedbackString;
+    var pos = feedbackString.toString();
   correctcheck: |
     pos.toLowerCase().includes("25")
  
