@@ -25,10 +25,18 @@ processor:
 files:
   - filename: "first.sql"
     name: first
-    ismain: true
+    ismain: false
     isreadonly: false
     isvisible: true
     code: | 
-        ; TODO: Square the number here
-        
+        (define square (lambda (a)
+            ; TODO: Square the number here
+        ))
+  - filename: "main.scm"
+    ismain: true
+    name: main
+    isreadonly: true
+    isvisible: true
+    code: |
+        (square 5)
 ---
