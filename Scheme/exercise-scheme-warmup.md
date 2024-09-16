@@ -1,6 +1,6 @@
 ---
 layout: exercise
-permalink: /Modules/SQL/Warmup/Exercise
+permalink: /Modules/Scheme/Warmup/Exercise
 title: "CS377: Database Design - Introduction to Databases"
 language: "scheme"
 
