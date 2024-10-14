@@ -1,9 +1,10 @@
 ---
 layout: exercise
+language: "cpp"
 permalink: /Modules/Cpp/CppIntro
 title: "C++ Basics"
-canvaspoints: "3"
-language: "cpp"
+canvasasmtid: "090211"
+canvaspoints: 3
 
 info:
   points: 3
@@ -13,9 +14,6 @@ info:
     - Work with loops in C++
     - Use conditionals in C++
     - Use basic print statements in C++
-
-canvasasmtid: "090211"
-canvaspoints: 3
     
 processor:  
   correctfeedback: "Correct!!" 
@@ -35,18 +33,18 @@ processor:
       feedback: "Try again.  Start looping at 6, not 0"
  
 files:
-  - filename: "Student Code"
+  - filename: "student.cpp"
     name: student
     ismain: false
     isreadonly: false
     isvisible: true
     code: | 
-        #include &ltstdio.h&gt
+        #include <stdio.h>
 
         // TODO: Fill in your printDivisibleBy6() method here
 
 
-  - filename: "Main Area"
+  - filename: "driver.cpp"
     name: main
     ismain: true
     isreadonly: true
@@ -59,4 +57,5 @@ files:
           printf("\n");
       }
         
+openFilesOnLoad: ["driver.cpp", "student.cpp"]
 ---

@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /ArrayDrills/ArrayMean
 title: "CS174: OOP - Drills - Computing the mean of arrays"
 
@@ -75,12 +76,6 @@ files:
             }
         }    
 
-  - filename: "Excerpt from Main.java: body of main() function"
-    ismain: true
-    name: main
-    isreadonly: true
-    isvisible: false
-    code: |
         Tester.main(null);
         
 ---

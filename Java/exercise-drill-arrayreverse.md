@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /ArrayDrills/ArrayReverse
 title: "CS174: OOP - Drills - Creating the reverse of an array"
 

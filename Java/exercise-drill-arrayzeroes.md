@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /ArrayDrills/ArrayZeroes
 title: "CS174: OOP - Drills - Counting Array Zeroes"
 

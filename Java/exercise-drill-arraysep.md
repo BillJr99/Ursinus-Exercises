@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /ArrayDrills/ArraySep
 title: "CS174: OOP - Drills - Printing array with commas"
 
