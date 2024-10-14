@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /ArrayDrills/Array3Sort
 title: "CS174: OOP - Drills - Array 3 Sort"
 

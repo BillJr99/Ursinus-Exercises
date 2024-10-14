@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /MiscDrills/StringVowels
 title: "CS174: OOP - Drills - Vowel Counting"
 

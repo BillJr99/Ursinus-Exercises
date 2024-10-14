@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /ArrayDrills/ArrayInsert
 title: "CS174: OOP - Drills - Array Insert"
 

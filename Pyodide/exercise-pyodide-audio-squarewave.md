@@ -11,7 +11,7 @@ canvashalftries: 5
 info:
   comments: "true"
   points: 1.5
-  instructions: "<p>Create a 660hz cosine-based square wave at a which occupies a half of a second, sampled at 44100 samples per second.  To do this, create a 660hz cosine wave, then feed it as an argument to the <code>np.sign</code> function</p><p>Below is an image of the first 400 samples of the square wave you're shooting for</p><img src = \"../images/Module2/SquareWave.svg\">"
+  instructions: "<p>Create a 660hz cosine-based square wave at a which occupies a half of a second, sampled at 44100 samples per second.  To do this, create a 660hz cosine wave, then feed it as an argument to the <code>np.sign</code> function</p><p>Below is an image of the first 400 samples of the square wave you're shooting for</p><img src = \"../images/SquareWave.svg\">"
   packages: "numpy"
   goals:
     - To use numpy operations to create audio

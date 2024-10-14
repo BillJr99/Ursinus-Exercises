@@ -1,5 +1,6 @@
 ---
 layout: exercise
+language: "java"
 permalink: /ArrayDrills/ArrayMinIndex
 title: "CS174: OOP - Drills - Array Min Index"
 
