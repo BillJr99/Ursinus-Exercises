@@ -31,10 +31,10 @@ processor:
   incorrectchecks:
     - incorrectcheck: |
         pyodide.globals.get("img_str") == zeroRef
-      feedback: "Try again.  It looks like all of the elements of <code>trials</code> are still zero. \nMake sure each element is the number of flips in a particular trial" 
+      feedback: "Try again.  It looks like all of the elements of trials are still zero. Make sure each element is the number of flips in a particular trial" 
     - incorrectcheck: |
         pyodide.globals.get("img_str") == resetRef
-      feedback: "Try again.  It looks like you forgot to reset <code>num_flips</code> and <code>heads_in_row</code>\nat the beginning of each trial" 
+      feedback: "Try again.  It looks like you forgot to reset num_flips and heads_in_row at the beginning of each trial" 
 
 
 files:
