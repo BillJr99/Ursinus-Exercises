@@ -1,7 +1,7 @@
 # Ursinus-Exercises
 
 Pull into individual website repository with:  
-git submodule add <this url> _pages/Exercises
+git submodule add https://github.com/BillJr99/Ursinus-Exercises pages/Exercises
 
 Update with:  
 git submodule update --init --recursive   
