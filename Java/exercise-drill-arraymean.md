@@ -14,6 +14,9 @@ info:
     - To declare accumulator variables outside of loops that are used in loops, but whose state persists beyond the loop
     - To use proper types
     - To handle boundary cases
+
+canvasasmtid: "090216"
+canvaspoints: 3
     
 processor:  
   correctfeedback: "Correct!!" 

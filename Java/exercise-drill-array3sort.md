@@ -13,6 +13,9 @@ info:
     - To allocate and populate new arrays
     - To use conditional statements appropriately
     - To properly define methods
+
+canvasasmtid: "090214"
+canvaspoints: 3
     
 processor:  
   correctfeedback: "Correct!!" 

@@ -12,6 +12,9 @@ info:
     - To use loops in concert with arrays
     - To keep track of multiple auxiliary variables in a loop
     - To properly define methods
+
+canvasasmtid: "090217"
+canvaspoints: 3
     
 processor:  
   correctfeedback: "Correct!!" 

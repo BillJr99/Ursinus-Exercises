@@ -13,6 +13,9 @@ info:
     - Work with loops in C++
     - Use conditionals in C++
     - Use basic print statements in C++
+
+canvasasmtid: "090211"
+canvaspoints: 3
     
 processor:  
   correctfeedback: "Correct!!" 

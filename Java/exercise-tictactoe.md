@@ -10,7 +10,7 @@ info:
   goals:
     - To iterate over a 2-dimensional array
     
-canvasasmtid: ""    
+canvasasmtid: "090210"    
 canvaspoints: 3
     
 processor:  

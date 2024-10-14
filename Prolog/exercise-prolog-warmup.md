@@ -10,7 +10,7 @@ info:
   goals:
     - To read a Prolog statement
     
-canvasasmtid: "181953"   
+canvasasmtid: "090222"   
 canvaspoints: 3
   
 processor:  

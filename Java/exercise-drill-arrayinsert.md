@@ -12,6 +12,9 @@ info:
     - To do proper array indexing
     - To use loops in concert with arrays
     - To allocate and populate new arrays
+
+canvasasmtid: "090215"
+canvaspoints: 3
     
 processor:  
   correctfeedback: "Correct!!" 

@@ -11,6 +11,9 @@ info:
     - To do proper string indexing
     - To use conditional statements appropriately
     - To keep track of auxiliary variables within loops
+
+canvasasmtid: "090213"
+canvaspoints: 3
     
 processor:  
   correctfeedback: "Correct!!" 
