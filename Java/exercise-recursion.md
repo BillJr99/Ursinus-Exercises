@@ -84,4 +84,4 @@ In this exercise \[[^1]\], the main() method runs the code on "hello" and "stres
 * Recall from chapter 2 that for a string s, s.substring(a, b) gives the substring of a string from index a to index b, not including b. So, for instance, if s = "stressed", then s.substring(0, 7) would yield the string "stresse". In this case, index 7 is the last index, but we don't include that index.
 * If you get an error like too much recursion, this is the same as the stack overflow error we saw in the video. This probably means that the string you're calling recursively isn't actually decreasing in length, so you never reach the stopping condition of an empty string, and your code goes on forever. Check to make sure you're taking the right substring in your recursive call.
 
-[^1]: Developed by [Prof. Chris Tralie](https://www.ursinus.edu/live/profiles/4502-christopher-j-tralie)
+[^1]: Developed by [Prof. Chris Tralie](https://www.ctralie.com/)

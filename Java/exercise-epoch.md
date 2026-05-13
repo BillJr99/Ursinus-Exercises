@@ -77,4 +77,4 @@ Incidentally, the smallest signed 32 bit integer is `-2147483648`.  Notice that 
 * Round this value down to the nearest integer using the `Math.floor()` method.
 * This is the number of years that can be counted in seconds in a standard `int` data type.  Add this to the starting year (a variable containing the  value 1970) to calculate the year in which this time measurement will overflow the `int` data type.
 
-[^1]: Developed by [Prof. Chris Tralie](https://www.ursinus.edu/live/profiles/4502-christopher-j-tralie)
+[^1]: Developed by [Prof. Chris Tralie](https://www.ctralie.com/)

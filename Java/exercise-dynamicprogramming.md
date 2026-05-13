@@ -107,4 +107,4 @@ In fact, now computing `fib(30)` takes even fewer than the 30 steps we would hav
 * Recall that to see if a key is in a HashMap `map`, you say `map.containsKey(key)`, which returns `true` if the key is in the map and `false` otherwise. So you'd want to check the memory by saying something like `fibMem.containsKey(N)`. You should use the result of this in an if statement
 * Recall that to retrieve values from the hash map, you use the `get(key)` method.
 
-[^1]: Developed by [Prof. Chris Tralie](https://www.ursinus.edu/live/profiles/4502-christopher-j-tralie)
+[^1]: Developed by [Prof. Chris Tralie](https://www.ctralie.com/)

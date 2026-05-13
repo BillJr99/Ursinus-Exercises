@@ -66,4 +66,4 @@ In this exercise, you can simply compute one of the roots, as follows:
 
 ## Attribution
 
-Developed by [Prof. Chris Tralie](https://www.ursinus.edu/live/profiles/4502-christopher-tralie)
+Developed by [Prof. Chris Tralie](https://www.ctralie.com/)

@@ -212,4 +212,4 @@ files:
 
 This exercise \[[^1]\] was developed by Prof. Tralie.
 
-[^1]: Developed by [Prof. Chris Tralie](https://www.ursinus.edu/live/profiles/4502-christopher-j-tralie)
+[^1]: Developed by [Prof. Chris Tralie](https://www.ctralie.com/)

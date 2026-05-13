@@ -90,4 +90,4 @@ You should use a loop in your submission.  To check your iteration, a test case 
 
 One way to go about this is to count how many X's and O's you find in a given row, column, or diagonal (three separate loops).  If the total number of X's or O's is equal to the length of that row, column, or diagonal, you can return `true`.  If, after all of these checks, you haven't found one of these winning conditions, return `false`.
 
-[^1]: Developed by [Prof. Chris Tralie](https://www.ursinus.edu/live/profiles/4502-christopher-j-tralie)
+[^1]: Developed by [Prof. Chris Tralie](https://www.ctralie.com/)

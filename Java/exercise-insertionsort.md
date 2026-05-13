@@ -163,4 +163,4 @@ This exercise \[[^1]\] was developed by Prof. Tralie.
 
 * If you just say `arr[i] = arr[j]`, then that will do half of the swap, but now you've overwritten what `arr[i]` used to be, so you've lost the information you need to update `arr[j]`. Try creating a temporary variable to store the value in `arr[i]` before you overwite it with what's in `arr[j]`.
 
-[^1]: Developed by [Prof. Chris Tralie](https://www.ursinus.edu/live/profiles/4502-christopher-j-tralie)
+[^1]: Developed by [Prof. Chris Tralie](https://www.ctralie.com/)
