@@ -53,9 +53,8 @@ files:
             * @return An array with the new element inserted
             */
             public static int[] insertElement(int[] arr, int index, int element) {
-                /** TODO: Fill this in.  You should return
-                * an int representing the number of zeroes in the
-                * array arr
+                /** TODO: Fill this in.  You should create and return
+                * a new array with "element" inserted at position "index"
                 */
                 int[] newArray = {}; // This is a dummy value. You should change this
                 return newArray;

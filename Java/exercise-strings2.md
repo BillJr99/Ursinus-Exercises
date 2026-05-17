@@ -49,10 +49,12 @@ files:
             public static int firstVowelLocation(String input) {
                 /* TODO: fill this in.  Return the index i corresponding to the first 
                    position at which input.charAt(i) is a vowel */
+                int idx = 0; // TODO: replace this with the index of the first vowel
+                return idx;
             }
             
             public static String pigLatin(String input) {
-                String result;
+                String result = ""; // TODO: replace this with the Pig Latin translation
                 
                 int idx = firstVowelLocation(input);
                 

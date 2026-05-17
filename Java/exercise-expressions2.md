@@ -44,7 +44,7 @@ files:
     code: | 
         public class Driver {
             public static void main(String[] args) {
-                float g = 9.80665; // Gravitational Constant on Earth in m/s
+                float g = 9.80665f; // Gravitational Constant on Earth in m/s
                 
                 /* TODO: Declare a float variable representing the amount of time that 
                    an object fell due to gravity.  Set this variable to 5 seconds. */
