@@ -76,6 +76,12 @@ files:
             }
         }    
 
+  - filename: "Excerpt from Main.java: body of main() function"
+    ismain: true
+    name: main
+    isreadonly: true
+    isvisible: false
+    code: |
         Tester.main(null);
         
 ---
