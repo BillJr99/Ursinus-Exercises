@@ -45,13 +45,13 @@ files:
             }
             
             public static ArrayList<Integer> buildArrayOfPrimes(int n) {
-                /* TODO: Create an ArrayList of Integer values */
+                ArrayList<Integer> primes = null; // TODO: create your ArrayList here
                 
                 /* TODO: iterate from 2 to n */
                 
                     /* TODO: if each number is prime, add it to the ArrayList */
                 
-                /* TODO: return the ArrayList */
+                return primes; // TODO: return the completed ArrayList
             }
         }
   - filename: "Driver.java"

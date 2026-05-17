@@ -22,7 +22,7 @@ processor:
   feedbackprocess: | 
     var pos = feedbackString.trim();
   correctcheck: |
-    pos === "3"        
+    Math.abs(parseFloat(pos) - 3) < 0.0001        
  
 files:
   - filename: "Driver.java"
@@ -36,6 +36,8 @@ files:
                 // TODO write this function and return the result.
                 // There are two roots (-b "+ or -" ...)
                 // ... just compute -b + ...
+                double result = 0.0; // TODO: replace this with the quadratic formula
+                return result;
             }
             
             public static void main(String[] args) {

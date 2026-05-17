@@ -38,6 +38,8 @@ files:
             public static int threeXPlusOne(int x) {
                 /* TODO: Solve the three x plus one problem! */
                 /* hint - use a loop and an if statement! */
+                int result = 0; // TODO: replace this with the number of iterations
+                return result;
             }
         }   
   - filename: "Driver.java"

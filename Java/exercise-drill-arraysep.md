@@ -5,7 +5,7 @@ permalink: /ArrayDrills/ArraySep
 title: "CS174: OOP - Drills - Printing array with commas"
 
 canvasasmtid: "95024"
-canvaspoints: "2"
+canvaspoints: 2
 canvashalftries: 5
 
 info:

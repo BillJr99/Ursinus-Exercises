@@ -36,6 +36,8 @@ files:
                 // ... the same logic is applied to every column, and to both diagonals of the board.
                 
                 // Use a loop to check each element of a row/column/diagonal.  The .length property of an array variable will be helpful in determining the bounds of (when to stop) the loop
+                boolean result = false; // TODO: set result to true if a winning configuration is found
+                return result;
             }
         }  
 
@@ -48,15 +50,15 @@ files:
         public class Driver {
             public static void main(String[] args) {
                 char[][] board1 = new char[][] {
-                    { "X", "O", "X" },
-                    { "O", "X", "-" },
-                    { "-", "-", "X" }
+                    { 'X', 'O', 'X' },
+                    { 'O', 'X', '-' },
+                    { '-', '-', 'X' }
                 };
                 
                 char[][] board2 = new char[][] {
-                    { "X", "O", "X" },
-                    { "O", "O", "-" },
-                    { "-", "-", "X" }
+                    { 'X', 'O', 'X' },
+                    { 'O', 'O', '-' },
+                    { '-', '-', 'X' }
                 };
                 
                 boolean isWinner1 = TicTacToe.checkWinningTicTacToe(board1);
