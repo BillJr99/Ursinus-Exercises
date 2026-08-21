@@ -5,8 +5,8 @@ permalink: /MiscDrills/StringVowels
 title: "CS174: OOP - Drills - Vowel Counting"
 
 info:
-  prev: "/ArrayDrills/ArrayInsert"
-  next: "/ArrayDrills/ArrayMinIndex"
+  prev: "../ArrayDrills/ArrayInsert"
+  next: "../ArrayDrills/ArrayMinIndex"
   instructions: "Fill in the method <code>countVowels</code> to count the number of vowels (both lowercase and uppercase, not including y or Y) in a string.  Recall that the method <code>charAt</code> of the <code>String</code> class returns a character at a particular index, and, like arrays, strings are zero-indexed.  For instance, if <p><code>String s = \"I love CS\";</code></p>, then <p><code>s.charAt(3)</code></p> returns the character <code>o</code>.<p>Recall also that the <code>length()</code> method of the <code>String</code> class returns the total number of characters in the string."
   goals:
     - To do proper string indexing
