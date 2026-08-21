@@ -7,6 +7,7 @@ title: "CS174: OOP - Drills - Array Min Index"
 
 info:
   prev: "./Array3Sort"
+  next: "../MiscDrills/StringVowels"
   instructions: "Create a static method <code>getMinIndex</code> takes in an array of doubles and returns the index of the minimum element in the array.  You must handle the following two special cases: <ol><li>If there are ties, it should return the lowest index among the ties</li><li>If the array is empty, your program should return 0 without crashing</li></ul>"
   goals:
     - To do proper array indexing
